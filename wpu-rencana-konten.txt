@@ -2,3 +2,4 @@ Rencana Task
 - Membuat Login form
 - Data Dosen
 - Data Mahasiswa
+-Data Jurusan
